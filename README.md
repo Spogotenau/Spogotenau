@@ -2,7 +2,7 @@
 
 ![lofi](https://github.com/user-attachments/assets/95b48569-af8c-40a5-8186-c572e67940be)
 
-
+👀 I’m interested in Counter-Strike and Programming
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spogotenau&layout=compact&theme=tokyonight)](https://github.com/Spogotenau/github-readme-stats)
 ![coruch](https://github.com/user-attachments/assets/0d186d77-d850-450b-bf0e-6d01b1ad8e71)
 
